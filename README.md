@@ -1,32 +1,25 @@
-
-
-
-# 👋 Hi there, I'm [yurusha]
+# 👋 Hi there, I'm [Your Name]
 
 🚀 Passionate developer who enjoys building clean, scalable, and impactful applications.
 
-💻 **What I work with**
+## 💻 What I Work With
+- 🌐 Web Development
+- 📱 Mobile Applications
+- ⚡ Backend APIs
+- 🤖 AI & Automation
+- ☁️ Cloud & DevOps
 
-* 🌐 Web Development
-* 📱 Mobile Applications
-* ⚡ Backend APIs
-* 🤖 AI & Automation
-* ☁️ Cloud & DevOps
+## 🌱 Currently Learning
+- Advanced System Design
+- Machine Learning
+- Modern Cloud Technologies
 
-🌱 **Currently Learning**
+## ✨ Goals
+- Build projects that solve real-world problems.
+- Contribute to open-source communities.
+- Keep learning something new every day.
 
-* Advanced System Design
-* Machine Learning
-* Modern Cloud Technologies
+## 📫 Let's Connect
+Feel free to explore my repositories, leave feedback, or collaborate on exciting projects!
 
-✨ **Goals**
-
-* Build projects that solve real-world problems.
-* Contribute to open-source communities.
-* Keep learning something new every day.
-
-📫 Feel free to explore my repositories, leave feedback, or collaborate on exciting projects!
-
-> *"Code. Learn. Build. Repeat."* 🚀
-
-
+> **"Code. Learn. Build. Repeat."** 🚀
