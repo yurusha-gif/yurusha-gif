@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi yoo👋
 
 <!--
 **yurusha-gif/yurusha-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
